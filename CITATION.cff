@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "glama-gateway-mcp"
+abstract: "Dependency-free MCP server exposing the Glama OpenAI-compatible AI gateway as four MCP tools: list models, chat, stream, and request status."
+authors:
+  - family-names: Nandipati
+    given-names: Sai Karun
+    orcid: https://orcid.org/0009-0007-9218-9750
+    affiliation: "Department of Data Science and Artificial Intelligence, PB Siddhartha College of Arts and Science"
+keywords:
+  - Model Context Protocol
+  - LLM gateway
+  - tool use
+  - agent
+license: MIT
+date-released: "2026-09-25"
+version: "1.0.0"
+repository-code: "https://github.com/karun99/glama-mcp"

@@ -7,11 +7,11 @@ tags:
   - tool use
   - agent
 authors:
-  - name: Karun Karun
-    orcid: 0000-0000-0000-0000
+  - name: Sai Karun Nandipati
+    orcid: 0009-0007-9218-9750
     affiliation: 1
 affiliations:
-  - name: Independent Researcher
+  - name: Department of Data Science and Artificial Intelligence, PB Siddhartha College of Arts and Science
     index: 1
 date: 25 September 2026
 bibliography: paper.bib
