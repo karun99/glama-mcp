@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/mcp-spec/main/schemas/client.json",
+  "name": "glama-mcp",
+  "description": "MCP server exposing the Glama OpenAI-compatible gateway (list models, chat, stream, request status)",
+  "mcpServers": {
+    "glama-gateway": {
+      "command": "glama-mcp",
+      "args": [],
+      "env": {
+        "GLAMA_API_KEY": "${GLAMA_API_KEY}",
+        "GLAMA_DEFAULT_MODEL": "openai/gpt-4o"
+      }
+    }
+  }
+}
