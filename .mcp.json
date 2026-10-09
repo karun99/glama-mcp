@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "glama-mcp": {
+      "command": "python3",
+      "args": [
+        "mcp-server/mcp_server.py"
+      ]
+    }
+  }
+}
