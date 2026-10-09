@@ -1,0 +1,17 @@
+{
+  "app": {
+    "name": "glama-mcp",
+    "version": "unknown",
+    "description": "MCP server exposing the Glama OpenAI-compatible gateway (list models, chat, stream, request status)"
+  },
+  "stack": "python",
+  "routes": [],
+  "pages": [],
+  "base_url": "http://localhost:8000",
+  "module": "glama_mcp",
+  "scripts": {},
+  "cli_entry": null,
+  "server": "mcp-server/mcp_server.py",
+  "runner": "python",
+  "runner_cmd": "python3"
+}
